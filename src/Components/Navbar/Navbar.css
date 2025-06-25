@@ -1,0 +1,21 @@
+.navcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navitems {
+  display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navitems p {
+    padding:10px
+}
+
+.profilename {
+    padding: 10px;
+}

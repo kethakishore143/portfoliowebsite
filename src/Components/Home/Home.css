@@ -1,0 +1,13 @@
+.homecard {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.imanish {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
