@@ -14,7 +14,7 @@ import "./Home.css"
 
 const Home = () => {
   return (
-    <div>
+    <div className='homemain'>
         <Navbar/>
         
         <div className='homecard'>

@@ -1,3 +1,7 @@
+.homemain{
+    height: 100vh;
+}
+
 .homecard {
     display: flex;
     flex-direction: row;
