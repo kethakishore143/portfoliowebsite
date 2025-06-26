@@ -1,0 +1,37 @@
+.about-maincard {
+    height: 100vh;
+}
+
+.about-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.handimg {
+    height:300px;
+    width:300px;
+    margin: 10px;
+}
+
+.yellowimg {
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+}
+
+.socialicons {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottomcard {
+     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.shapesimg {
+    height: 200px;
+}

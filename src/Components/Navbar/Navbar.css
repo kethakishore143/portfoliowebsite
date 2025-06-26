@@ -1,21 +1,40 @@
-.navcontainer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
 
-.navitems {
-  display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-}
 
 .navitems p {
-    padding:10px
+    padding:10px;
+    margin-right: 8px;
 }
 
 .profilename {
     padding: 10px;
+}
+
+.flowerimg {
+    height:20px ;
+    width:20px ;
+    margin: 8px;
+}
+
+.navcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.navitems {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: inherit;
 }

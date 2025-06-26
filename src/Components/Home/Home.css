@@ -11,3 +11,47 @@
     align-items: center;
     justify-content: center;
 }
+
+.bottomcard {
+    display: flex;
+    flex-direction: row;
+}
+
+.mailid {
+    height:150px;
+    width:10px;
+}
+
+.profileimg {
+    height:400px;
+    width:400px;
+    margin: 10px;
+}
+
+.info {
+    font-size: 10px;
+}
+
+.downloadcvbtn {
+    width: 136;
+   height: 29;
+   top: 666px;
+   left: 289px;
+   background-color: brown;
+   color: aliceblue;
+   padding: 5px;
+   margin: 10px;
+}
+
+.getintouchbtn {
+    width: 136;
+height: 29;
+top: 666px;
+left: 489px;
+color: #FEFEFE;
+
+margin:10px ;
+padding: 5px;
+background: linear-gradient(90deg, #434343 0%, #000000 100%);
+
+}
